@@ -56,3 +56,5 @@ Spread dosa batter thinly on a hot griddle, drizzle oil, and cook until crispy.
 Add a portion of the potato filling, fold the dosa, and serve hot.
 
 Serve your homemade Masala Dosa with coconut chutney and sambar for an authentic South Indian experience. Share your culinary journey with us, and enjoy the delightful combination of textures and flavors that Masala Dosa brings to your table!
+
+source:chatGPT
