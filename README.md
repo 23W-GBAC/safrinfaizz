@@ -162,7 +162,7 @@ Our goal is to get the skin to a crispy consistency. Turn around the fish and fr
 Fry on a high flame again for a minute before taking out the fish using a slotted spoon. If you like you fish fry crispier, keep frying for a few more minutes. Drain all the excess oil using a kitchen towel
 
 
-source:chat GPT , the take it easy(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thetakeiteasychef.com%2Fkerala-fish-fry-recipe&psig=AOvVaw16inAykajCFarSjx2o3Pr0&ust=1704320666505000&source=images&cd=vfe&opi=89978449&ved=0CAUQjB1qFwoTCKDDvLLfv4MDFQAAAAAdAAAAABAD)
+source:chat GPT , the take it easy
 
 
 
