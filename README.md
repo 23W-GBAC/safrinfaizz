@@ -166,7 +166,8 @@ source:chat GPT , the take it easy
 
 
 
-|Ingredients | measurments | Instructions |
- echo |:---:|:---:|:---:|
- echo |||
+| Ingredients | Measurments | Instructions |
+| --- | --- | ------ |
+| Water | 2 | Add water slowly while hot. <br> Add water and stir properly.  <br> Add more water. |
+| Milk | 1 Litre | Add cow milk |
 
