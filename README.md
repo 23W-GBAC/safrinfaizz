@@ -157,17 +157,19 @@ Fish coated with marinade ready to fry
 Heat some oil in a pan. We don't want to deep fry the fish, but we need enough oil to cover the base! 🙂
 When the oil reaches the smoking point, lower the flame to medium, and place two sprigs on curry leaves in the pan.
 Start by frying some curry leaves. Now gently place the marinated fish in the pan. Fry on a high flame for a couple of minutes. Lower the flame and continue cooking closed with a lid.
-Fry the fish in a pan with hot oil.open the lid after 10 minutes, sprinkle some black pepper powder, and let it fry for some more time.
-Our goal is to get the skin to a crispy consistency. Turn around the fish and fry the other side as well. Sprinkle a dash of pepper powder on this side as well.
-Fry on a high flame again for a minute before taking out the fish using a slotted spoon. If you like you fish fry crispier, keep frying for a few more minutes. Drain all the excess oil using a kitchen towel
+Fry the fish in a pan with hot oil.open the lid after 10 minutes, sprinkle some black pepper powder
+|curry leaves|2 springs|
+|ginger|1 ich|
+|garlic|4 pods|
+|kashmiri chilli powder|1 tsp|
+|coriander powder|1/2 tsp|
+|turmeric powder|1/2 tsp|
+|salt| 1/2 ts|
+|1/2 tablespoon vinegar optional|1/2 tsp|
+|**For frying**
+|coconut oil|1 cup|
+|Black pepper powder|1 tsp|
+|lime wedge|2 piece|
+|curry leaves  | 3 springs|  |
 
-
-source:chat GPT , the take it easy
-
-
-
-| Ingredients | Measurments | Instructions |
-| --- | --- | ------ |
-| Water | 2 | Add water slowly while hot. <br> Add water and stir properly.  <br> Add more water. |
-| Milk | 1 Litre | Add cow milk |
 
