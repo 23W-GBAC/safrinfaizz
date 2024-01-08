@@ -1,67 +1,52 @@
 ## HOMETOWN FLAVOURS
 **Namaste! welcome to Hometown Flavours** 
 
+
 ![image](https://github.com/23W-GBAC/safrinfaizz/assets/150972752/c636e2f0-2d84-4ba3-ae40-5d54452ede77)
 
-Hi there, my name is safreena kokk adan and i'm from india. i'm so excited to explore the vibrant tapestry of testes that my south indian roots have blessed me with. India, with its collection of cultures, languages, and landscapes, reflects its diversity beautifully through its food. From the fiery spices of Andhra Pradesh to the aromatic biryanis of Tamil Nadu, our plates are a canvas of regional treasures. 
 
-So, why "Hometown Flavours"? Well, this blog is all about celebrating the incredible variety of dishes that make my hometown special. Join me as I unlock the secrets of South Indian cuisine, sharing recipes straight from my kitchen to yours. 
-Get ready to tantalize your taste buds and discover the magic of Hometown Flavours. Let the culinary exploration begin! 
+Welcome to a gastronomic voyage through the sun-kissed landscapes and rich cultural heritage of South India! In this blog, we embark on a delightful exploration of the diverse and flavorsome tapestry that defines South Indian cuisine. From the aromatic spices that dance in every dish to the distinctive cooking techniques that have stood the test of time, join us as we unravel the secrets behind the mouthwatering allure of South Indian food.
+
+As we dive into the sumptuous world of dosas, idlis, sambars, and an array of delectable curries, we'll not only share recipes but also delve into the cultural context that makes each dish special. Get ready for a virtual feast of colors, flavors, and aromas that will leave you craving more.
+
+So, tighten your apron strings and get ready to embark on a journey that promises to tantalize your taste buds, expand your culinary horizons, and perhaps inspire your next kitchen adventure. Let's savor the magic of South Indian cuisine together
+
+
+
+
+
+**Masala Dosa: A Spiced Symphony on Your Plate**
+
+In the realm of South Indian delicacies, there exists a culinary masterpiece that transcends simplicity – the Masala Dosa. Imagine a crispy, golden-brown dosa generously enveloping a flavorful filling of spiced potatoes, creating a harmonious blend of textures and tastes. Today, we embark on a journey to demystify the art of crafting the perfect Masala Dosa, where every bite is a celebration of spice and satisfaction.
+
+![image](https://github.com/23W-GBAC/safrinfaizz/assets/150972752/88cf7fa5-c94f-4447-b2d4-d66993497c84)
+
+Masala Dosa is more than a dish; it's a delightful saga of flavors that unfold with every layer. Originating from the vibrant streets of South India, this dosa variant takes the classic dosa experience to new heights by introducing a tantalizing masala filling. Imagine the fragrance of mustard seeds crackling in hot oil, the earthiness of mashed potatoes infused with aromatic spices, all encased in the crispy embrace of a dosa – it's a culinary adventure waiting to be savored.
+ In the realm of South Indian delicacies, there exists a culinary masterpiece that transcends simplicity – the Masala Dosa. Imagine a crispy, golden-brown dosa generously enveloping a flavorful filling of spiced potatoes, creating a harmonious blend of textures and tastes. Today, we embark on a journey to demystify the art of crafting the perfect Masala Dosa, where every bite is a celebration of spice and satisfaction.
 
  
+|ingredients|measurment|instructions|
+|---|---|---|
+|**For Dosa Batter**||**Dosa Batter**|
+| rice| 1 cup|Rinse rice and urad dal separately.<br> Soak them along with fenugreek seeds in water for 4-6 hours|
+| urad dal (split black gram)|1/2 cup|Grind soaked rice and urad dal into a smooth batter. <br>Add salt and let it ferment overnight or for at least 8 hours.|
+| fenugreek seeds|1/4 ts|**Masala Filling**|
+|Salt|1/2 ts|Heat oil in a pan. Add mustard seeds, cumin seeds, and let them splutter.|
+|**For Masala Filling**||Add curry leaves, sliced onions, and green chilies. <br>Sauté until onions are golden brown.Add turmeric powder, asafoetida, and mashed potatoes. Mix well.|
+| potatoes, boiled and mashed|4 potatoes|Cook for 5-7 minutes, stirring occasionally. Add salt and adjust seasoning.|
+| oil|1 tsp|Garnish with fresh coriander leaves. The masala filling is ready.|
+| mustard seeds|1 ts|**Making Masala Dosa**|
+| cumin seeds|1 ts|Heat a non-stick pan or griddle.|
+|curry leaves|2 spoons|Pour a ladleful of dosa batter and <br>spread it thinly in a circular motion to form a dosa.|
+| onion, thinly sliced|1|Drizzle some oil around the edges. Cook until the dosa turns golden brown and crisp.|
+| green chilies, finely chopped|3|Place a portion of the masala filling in the center of the dosa.|
+|turmeric powder|1/4 ts |Fold the dosa over the filling, creating a semi-circle or a cylindrical shape.|
+|Fresh coriander leaves for garnish|2 spoons|Press gently, and your Masala Dosa is ready to be served!|
+|Salt to taste|||
 
-## Authentic Masala Dosa Recipe - A South Indian Delight  
-![image](https://github.com/23W-GBAC/safrinfaizz/assets/150972752/ecdaecb9-7b17-4081-ac91-a22da1ab2c51)
+**Enjoy your homemade Masala Dosa with coconut chutney and sambar for a truly authentic South Indian experience!**
 
-
-Discover the flavors of South India with this authentic Masala Dosa recipe. Crispy on the outside, soft on the inside, and filled with a spiced potato mixture, Masala Dosa is a popular dish that's both satisfying and delicious. Follow this step-by-step guide to recreate the magic in your own kitchen.
-
-**Ingredients:**
-
-Dosa Batter:
-
-1 cup rice
-1/2 cup urad dal (black gram)
-1/4 teaspoon fenugreek seeds (methi)
-Salt to taste
-
-Masala (Potato Filling):
-
-3-4 medium-sized potatoes boiled and mashed,
-1 onion finely chopped,
-1-2 green chilies chopped,
-1/2 teaspoon mustard seeds,
-1 sprig curry leaves
-1/2 teaspoon turmeric powder
-1/4 teaspon garam masala (hot spices)
-Salt to taste
-Chopped coriander leaves 
-
-
-**Instructions:**
-
-Dosa Batter:
-
-Rinse and soak rice, urad dal, and fenugreek seeds.
-Grind to a smooth batter, mix, add salt, and ferment overnight.
-
-Masala (Potato Filling):
-
-Saute mustard seeds, cumin seeds, onions, green chilies, curry leaves until golden.
-Add turmeric,garam masala, boiled and mashed potatoes, salt, mix and  cook until flavors meld,at last chopped coriander leaves.
-
-Making Masala Dosa:
-
-Spread dosa batter thinly on a hot griddle, drizzle oil, and cook until crispy.
-Add a portion of the potato filling, fold the dosa, and serve hot.
-
-Serve your homemade Masala Dosa with coconut chutney and sambar for an authentic South Indian experience. Share your culinary journey with us, and enjoy the delightful combination of textures and flavors that Masala Dosa brings to your table!
-
-source:chatGPT
-
-
-
-
+soursce:chatGPT
 
 ## A Nostalgic Culinary Tale: Lemon Rice and Childhood Bonds
 
@@ -74,35 +59,26 @@ Lemon Rice isn't just a culinary delight; it's a vessel of shared laughter. Grow
 ![image](https://github.com/23W-GBAC/safrinfaizz/assets/150972752/bccdb5e3-4b3a-46ec-9d51-551ef928deea)
 
 
-**inredients**
-
- cup basmati rice (cooked and cooled)
-2 tablespoons vegetable oil
-1 teaspoon mustard seeds
-1 teaspoon urad dal (split black gram)
-1 teaspoon chana dal (split chickpeas)
-8-10 curry leaves
-2-3 green chilies (slit)
-1/2 teaspoon turmeric powder
-Salt to taste
-2 tablespoons roasted peanuts (optional)
-2 tablespoons fresh coriander leaves (chopped)
-1 lemon (juiced)
 
 
-**instructions:**
-    Cook basmati rice and let it cool.
-    Heat oil in a pan, add mustard seeds, urad dal, and chana dal. Let them splutter and turn golden brown.
-    Add curry leaves, green chilies, and, optionally. Sauté for a minute.
-    Sprinkle turmeric powder, stir, and add the cooled rice to the pan.
-    Mix gently to coat the rice with the spices.
-    Squeeze lemon juice over the rice, add salt, and mix well.
-    Optionally, add roasted peanuts for crunch.
-    Garnish with chopped coriander leaves.
-    Your simple and delicious Lemon Rice is ready to be served! Enjoy it on its own or with your favorite side.
+|ingredient|measurement|instructions|
+|---|---|---|
+| basmati rice(cooked and cooled)  |1 cup | Cook basmati rice and let it cool.|
+| vegetable oil|2 tsp| Heat oil in a pan, add mustard seeds, urad dal, and chana dal.|
+| mustard seeds|1 ts| Heat oil in a pan, add mustard seeds, urad dal, and chana dal.|
+|urad dal (split black gram)|1 tsp| Add curry leaves, green chilies, and, optionally. Sauté for a minute.|
+| chana dal (split chickpeas)|1 tsp|  Sprinkle turmeric powder, stir, and add the cooled rice to the pan.|
+|8 curry leaves|8| add the rice which is cooked and cooled|
+| green chilies (slit)|3| Squeeze lemon juice over the rice, add salt, and mix well.|
+| turmeric powder|1/2 ts| optionally, add roasted peanuts for crunch.|
+|Salt |1/2 ts| Garnish with chopped coriander leaves.|
+| roasted peanuts (optional)|2 tsp |Your simple and delicious Lemon Rice is ready to be served!|
+| fresh coriander leaves (chopped)|2 tsp| Enjoy it on its own or with your favorite side.|
+| lemon (juiced)|1||
+
+
 
 source:chatGPT
-
 
 
 
@@ -125,47 +101,20 @@ Join me as we delve into the history, ingredients, and preparation techniques th
 
 
 
-**Ingredients**
 
-500 grams fish I used two pomfrets
-For marinade
-1/2 cup shallots a handful
-2 sprigs curry leaves
-1 inch ginger
-4 pods garlic
-1 tablespoon kashmiri chilli powder
-1/2 tablespoon coriander powder
-1/2 teaspoon turmeric powder
-salt
-1/2 tablespoon vinegar optional
-For frying
-1 cup coconut oil
-1 teaspoon Black pepper powder
-1 piece lime wedge
-2-3 sprigs curry leaves
-
-
-**Instructions**
-
-Blitz the shallots, garlic, ginger, and curry leaves with some water in a blender. I use some vinegar as well, but that's optional.
-
-**Ingredients for the marinade**
-
-Add the chilli powder, coriander powder, turmeric powder, and salt, and grind again to get a fine paste.
-Score the fish making deep gashes 1/2 inch apart. Rub in the marinade to fully coat the fish.
-Fish coated with marinade ready to fry
-Heat some oil in a pan. We don't want to deep fry the fish, but we need enough oil to cover the base! 🙂
-When the oil reaches the smoking point, lower the flame to medium, and place two sprigs on curry leaves in the pan.
-Start by frying some curry leaves. Now gently place the marinated fish in the pan. Fry on a high flame for a couple of minutes. Lower the flame and continue cooking closed with a lid.
-Fry the fish in a pan with hot oil.open the lid after 10 minutes, sprinkle some black pepper powder
-|curry leaves|2 springs|
-|ginger|1 ich|
-|garlic|4 pods|
-|kashmiri chilli powder|1 tsp|
-|coriander powder|1/2 tsp|
-|turmeric powder|1/2 tsp|
-|salt| 1/2 ts|
-|1/2 tablespoon vinegar optional|1/2 tsp|
+|ingredients|measurement|instructions|
+|----|----|----|
+| fish|500gm |Blitz the shallots, garlic, ginger, and curry leaves with some water in a blender.<br> use some vinegar but that's optional.<br> Add the cilly powderd , coriander powder, turmeric powder, and salt, and grind again to get a fine paste.|
+|**marinade**| |Add the chilli powder, coriander powder, turmeric powder, and salt, and grind again to get a fine paste.
+|shallots |1/2 cup|Score the fish making deep gashes 1/2 inch apart. Rub in the marinade to fully coat the fish|
+|curry leaves|2 springs|Heat some oil in a pan. We don't want to deep fry the fish, but we need enough oil to cover the base!|
+|ginger|1 ich|When the oil reaches the smoking point, lower the flame to medium, and place two sprigs on curry leaves in the pan|
+|garlic|4 pods|Start by frying some curry leaves. Now gently place the marinated fish in the pan.|
+|kashmiri chilli powder|1 tsp| Fry on a high flame for a couple of minutes. Lower the flame and continue cooking closed with a lid.|
+|coriander powder|1/2 tsp|Fry the fish in a pan with hot oil.open the lid after 10 minutes, sprinkle some black pepper powder on this side as well.|
+|turmeric powder|1/2 tsp|Fry on a high flame again for a minute before taking out the fish using a slotted spoon.|
+|salt| 1/2 ts| If you like you fish fry crispier, keep frying for a few more minutes.|
+|1/2 tablespoon vinegar optional|1/2 tsp| Drain all the excess oil using a kitchen towel.|
 |**For frying**
 |coconut oil|1 cup|
 |Black pepper powder|1 tsp|
@@ -173,3 +122,4 @@ Fry the fish in a pan with hot oil.open the lid after 10 minutes, sprinkle some 
 |curry leaves  | 3 springs|  |
 
 
+source:chatGPT
