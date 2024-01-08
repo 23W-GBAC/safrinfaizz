@@ -88,7 +88,7 @@ source:chatGPT
 **automation**
  so , I've found the solution on how to integrate the Markdown table into my blog
 Utilize the Markdown table syntax, using pipes (|) to separate columns and hyphens (-) to distinguish the header row from the content. Each row should be on a new line
-|Heading 1|Heading 2|Heading 3|
+|Heading 1|Heading 2|Heading3|
   |-------|------|-------|
   |content|content|content|
 
