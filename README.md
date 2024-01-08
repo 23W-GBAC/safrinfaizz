@@ -48,9 +48,6 @@ Masala Dosa is more than a dish; it's a delightful saga of flavors that unfold w
 
 soursce:chatGPT
 
-**Automation:**
-
- I encountered a challenge while working on a headline for my blog. The issue arose when I needed to include  instructions,ingredients and measurmnets in a visually appealing format. To enhance the presentation, I decided to utilize a Markdown table. it's not claiming to be a perfect automation solution. Instead, it represents a  step towards automation, I'm eager to explore how I can integrate it into my blog post.
 
 
 ## A Nostalgic Culinary Tale: Lemon Rice and Childhood Bonds
@@ -85,12 +82,6 @@ Lemon Rice isn't just a culinary delight; it's a vessel of shared laughter. Grow
 
 source:chatGPT
 
-**automation**
- so , I've found the solution on how to integrate the Markdown table into my blog
-Utilize the Markdown table syntax, using pipes (|) to separate columns and hyphens (-) to distinguish the header row from the content. Each row should be on a new line
-|Heading 1|Heading 2|Heading3|
-  |-------|------|-------|
-  |content|content|content|
 
 
 
