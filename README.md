@@ -166,3 +166,7 @@ source:chat GPT , the take it easy
 
 
 
+|Ingredients | measurments | Instructions |
+ echo |:---:|:---:|:---:|
+ echo |||
+

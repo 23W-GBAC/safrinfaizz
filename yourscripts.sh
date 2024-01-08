@@ -1,1 +1,1 @@
-echo "|Ingredients | measurments | Instructions |\n">> safrinfaizz/README.md    echo "|:---:|:---:|:---:|\n">> safrinfaizz/README.md                            echo "|||\n">> safrinfaizz/README.md
+echo "|Ingredients | measurments | Instructions |\n">> ~/blog_safrinfaizz/README.md    echo "|:---:|:---:|:---:|\n">> ~/blog_safrinfaizz/README.md                            echo "|||\n">> ~/blog_safrinfaizz/README.md
