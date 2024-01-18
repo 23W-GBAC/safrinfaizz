@@ -127,20 +127,29 @@ Join me as we delve into the history, ingredients, and preparation techniques th
 
 source:chatGPT
 
+# "Exploring Culinary Delights: Kerala-Style Chicken Curry"
+
+In the vibrant tapestry of Indian cuisine, few regions captivate the taste buds as enchantingly as Kerala. Nestled along the southwestern coast, Kerala is renowned for its rich cultural heritage, lush landscapes, and, of course, its aromatic and flavorful dishes. Among the plethora of culinary gems that this coastal state offers, Kerala-style Chicken Curry stands out as a testament to the exquisite blend of spices, coconut, and tradition.
+
+
+![image](https://github.com/23W-GBAC/safrinfaizz/assets/150972752/7d187d36-d072-4cbc-9dcc-2723fc44c4ee)
+
+The journey begins with the marination process, where the chicken is bathed in a vibrant mix of turmeric, red chili, and coriander, enhancing the meat with layers of flavor. This initial step sets the stage for a culinary adventure that unfolds in the kitchen.
+
+Join me on this culinary journey as we unravel the secrets and flavors of Kerala-style Chicken Curry, a dish that embodies the warmth and hospitality of this enchanting region. Get ready to tantalize your taste buds and bring a touch of Kerala to your kitchen!
 
 
 
 | ingredients | measurments | instructions |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| chicken | 1 kg  | In a large pan or kadai, heat coconut oil over medium heat. Add mustard seeds.<brs>once it  Once they splutter, add sliced onions and curry leaves. <brs>Saute until the onions become golden brown.  |
+| tomatoes ,chopped | 2  | Add ginger-garlic paste and green chilies. Saute for a couple of minutes until the raw smell disappears.  |
+| chilly powder   |  2 tbs | Add chopped tomatoes and cook until they become soft and the oil starts to separate.  |
+| ginger_garlic paste  | 1 tbs   | Add turmeric powder, red chili powder, and coriander powder. Mix well and cook for a few minutes.  |
+| mustard seed  | 1 ts  |Add chicken pieces and sear them until they are browned on all sides.   |
+| turmeric powder   | 1 tbs  | Pour in the thick coconut milk, cover the pan, and let it simmer on medium heat until the chicken is cooked through.  |
+| coriander powder  | 2 tbs  | Adjust the salt as per your taste.  |
+|thick coconut milk   | 1 cup  | cook for 15 to 20 minutes  |
+| salt  |  1/2 tbs | Garnish with fresh coriander leaves and serve hot with rice or Kerala parotta.  |
+| coriander leaves  | 1  | serve the food with smile  |
+
