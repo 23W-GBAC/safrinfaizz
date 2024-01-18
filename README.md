@@ -154,3 +154,4 @@ Join me on this culinary journey as we unravel the secrets and flavors of Kerala
 | salt  |  1/2 tbs | Garnish with fresh coriander leaves and serve hot with rice or Kerala parotta.  |
 | coriander leaves  | 1  | serve the food with smile  |
 
+soursce:chatGPT
