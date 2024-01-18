@@ -129,3 +129,18 @@ source:chatGPT
 
 
 
+
+| ingredients | measurments | instructions |
+| --- | --- | --- |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
