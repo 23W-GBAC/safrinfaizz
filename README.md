@@ -126,3 +126,14 @@ Join me as we delve into the history, ingredients, and preparation techniques th
 
 
 source:chatGPT
+
+| ingredient | measurement | instructions | wait-time |
+| --- | --- | --- | --- |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+| ingredient | measurement | instruction | wait-time |
+| --- | --- | --- | --- |
+| rice | 1 cup | boil rice with 2 cups of water | 20 minutes |
+| beans | 1 cup | boil beans with 3 cups of water | 25 minutes |
