@@ -1,5 +1,11 @@
-| Ingredient | Measurement | Instructions |
+
+
+| ingredients | measurment | instructions |
 | --- | --- | --- |
-| Rice | 1 cup | Boil for 30mins before sieving and cook on low heat |
-| salt | 1 teaspoon | Don't add too much salt now, that would be enough |
-| Butter | 1 table spoon | Put it into the rice when almost done |
+|   |   |   |
+|   |   |   |
+
+| ingredients | measurments | instructions |
+| --- | --- | --- |
+| rice | 1 kg | add water |
+| flour | 1/2 kg | put some salt |

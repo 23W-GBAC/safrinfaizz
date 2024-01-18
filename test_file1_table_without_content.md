@@ -1,5 +1,0 @@
-| Ingredient | Measurement | Instructions |
-| --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
