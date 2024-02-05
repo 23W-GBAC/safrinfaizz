@@ -11,3 +11,17 @@
   |-------|------|-------|
   |content|content|content|
 
+# My Automation Journey 
+as i mentioned before , manullay creating a table was my plan but after that i started to thing about can i do the real automation for creating a table? so i started to google about it. Since I use Ubuntu, getting started with automation was a bit tricky. I felt like giving up, but I teamed up with a classmate. Together, we decided to use Python for the scripting part.As we worked on the script, I faced some problems. My classmate helped me understand pull requests better, and we tackled issues that popped up during development. 
+
+Before automating the table creation, I had trouble with Git commands in PyCharm. i tried to install python but it shows me  There was an error saying 'git' was not recognized. 
+
+**git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was** 
+**included, verify that the path is correct and try again.**
+ **At line:1 char:1**
+ **+ git help**
+**+ ~~~**
+  **+ CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException**
+    **+ FullyQualifiedErrorId : CommandNotFoundException**
+
+ finally instead of typing python 3.12 i typed python then it works OMG! it felt like I was on cloud nine. ChatGPT was a big help during this process. finally time to test it on my side , i tested and it is working so After testing everything, I felt ready to create a new blog post and put the automation to the test. The last step was pushing the changes to GitHub, and that marked the end of my automation project.
